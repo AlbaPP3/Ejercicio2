@@ -1,0 +1,29 @@
+#tabla{
+  width: 80%;
+  margin-left: 350px;
+ }
+ #listas{
+     width: 80%;
+     display: inline-flex;
+     margin-top: 50px;
+     margin-left: 350px;
+ }
+ 
+ #aniulista{
+     margin-left: 70px;
+ }
+ #numlista{
+     margin-left: 70px;
+ }
+ #letlista{
+     margin-left: 70px;
+ }
+ #revernumlista{
+     margin-left: 70px;
+ }
+ 
+ #citas{
+     width: 80%;
+     margin-top: 50px;
+     margin-left: 350px;
+ }
